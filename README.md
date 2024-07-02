@@ -10,7 +10,7 @@ This README provides detailed instructions on how to create an S3 bucket, upload
 * AWS Management Console access
 
 *Steps to Create and Configure an S3 Bucket
-https://github.com/sujikathir/AWS-Projects/blob/main/s3/images/s3%20home.png
+![] (https://github.com/sujikathir/AWS-Projects/blob/main/s3/images/s3%20home.png)
 
 1. Create an S3 Bucket
 
