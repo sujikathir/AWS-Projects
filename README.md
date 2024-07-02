@@ -10,13 +10,14 @@ This README provides detailed instructions on how to create an S3 bucket, upload
 * AWS Management Console access
 
 *Steps to Create and Configure an S3 Bucket
+
 ![](https://github.com/sujikathir/AWS-Projects/blob/main/s3/images/s3%20home.png)
 
 1. Create an S3 Bucket
 
 - Navigate to S3 in the AWS Management Console.
 - Click on the "Create bucket" button on the right side.
-- Enter a name for your S3 bucket using the format <id>myawsticketdata. Remember to use your unique ID at the end. Review the naming rules if needed.
+- Enter a name for your S3 bucket using the format <id>myawsticketdata. Remember to use your unique ID at the end. [Review the naming rules if needed](https://docs.aws.amazon.com/AmazonS3/latest/userguide/bucketnamingrules.html).
 - Select the AWS Region named "US West (Oregon) us-west-2".
 - Under the Block Public Access header, clear the radio button for "Block all public access". Select the checkbox to acknowledge that by making this choice you understand the bucket will be public.
 - Leave the Default encryption and other settings with their defaults. Click on the "Create bucket" button.
