@@ -6,8 +6,8 @@ Services: S3, Athena, Redshift, Glue, Quicksight, Sagemaker, IoT, Kinesis
 This README provides detailed instructions on how to create an S3 bucket, upload raw data files, query data with S3 Select, and change properties like encryption and storage type. Follow these steps to replicate the setup and operations.
 
 ### Prerequisites
-* *AWS account
-* *AWS Management Console access
+* AWS account
+* AWS Management Console access
 
 *Steps to Create and Configure an S3 Bucket
 
