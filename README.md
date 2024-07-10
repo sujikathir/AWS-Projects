@@ -1,6 +1,8 @@
 
 ## AWS S3 Project: Working with S3 Buckets and Data Files
 
+![](https://github.com/sujikathir/Using-AWS-S3-for-Data-Storage/blob/main/s3/cover%20page.png)
+
 This README provides detailed instructions on how to create an S3 bucket, upload raw data files, query data with S3 Select, and change properties like encryption and storage type. Follow these steps to replicate the setup and operations.
 
 ### Prerequisites
